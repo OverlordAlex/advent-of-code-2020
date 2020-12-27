@@ -1,0 +1,10 @@
+.decl Numbers(x: number)
+.input Numbers(filename="in.1", delimiter="\n")
+
+.decl SumTwo(a: number, b:number)
+SumTwo(a, b) :- Numbers(a), Numbers(b), a + b = 2020, a < b.
+
+.decl SumThree(a: number, b:number, c:number)
+SumThree(a, b, c) :- Numbers(a), Numbers(b), Numbers(c), a + b + c = 2020, a != b, b != c, a != c.
+
+.output SumThree
