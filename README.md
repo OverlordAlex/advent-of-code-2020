@@ -40,4 +40,6 @@ Each program is self-contained. The language chosen, the presumed website, and s
         Prolog was hacked together, and then refined with a blog post I found. I take no credit, especially for part2
 ---
 
-
+# P8: Kotlin [https://kotlinlang.org/]
+        Used Vim, so definitely suboptimal. Hoping this is the multi-day challenge so that I can reuse Kotlin some more
+        Still have #TODO part 2 - Want to do something better than brute-force
