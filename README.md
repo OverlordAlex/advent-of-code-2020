@@ -35,6 +35,9 @@ Each program is self-contained. The language chosen, the presumed website, and s
         Unhelpful error messages most of the time
 ---
 
-# P7:
-    
+# P7: AWK + Prolog [https://www.gnu.org/software/gawk/] [https://www.swi-prolog.org/]
+        AWK was more painful than it should have been due to some recursion
+        Prolog was hacked together, and then refined with a blog post I found. I take no credit, especially for part2
+---
+
 
