@@ -42,4 +42,7 @@ Each program is self-contained. The language chosen, the presumed website, and s
 
 # P8: Kotlin [https://kotlinlang.org/]
         Used Vim, so definitely suboptimal. Hoping this is the multi-day challenge so that I can reuse Kotlin some more
-        Still have #TODO part 2 - Want to do something better than brute-force
+        Brute-forced part 2 - I still believe there is an elegant solution out there
+---
+
+# P9: Golang?
