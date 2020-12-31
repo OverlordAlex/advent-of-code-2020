@@ -45,4 +45,9 @@ Each program is self-contained. The language chosen, the presumed website, and s
         Brute-forced part 2 - I still believe there is an elegant solution out there
 ---
 
-# P9: Golang?
+# P9: Go [https://golang.org/]
+        Honestly made me hate golang. I could see this being okay for a proper project, but probably the worst thing for iterative on-the-fly development
+        Part 2 was different enough that I split the program, however it probably could probably be done easier with sorting
+---
+
+
