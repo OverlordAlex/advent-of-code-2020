@@ -50,4 +50,9 @@ Each program is self-contained. The language chosen, the presumed website, and s
         Part 2 was different enough that I split the program, however it probably could probably be done easier with sorting
 ---
 
+# P10: Dart [https://dart.dev/]
+        Really enjoyed this - nothing special, just a nice contrast to Go. Motivated me to look at Flutter for future projects.
+        Part 2 was a neat little DP problem - classical path addition
+---
+
 
