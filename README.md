@@ -31,32 +31,38 @@ Each program is self-contained. The language chosen, the presumed website, and s
     So many bad practices here, but F# is still my favourite functional lang
 ---
  
-## P6: Javascript [?? https://www.javascript.com/]
+## P6: Javascript [https://www.javascript.com/ ?? Is this the official site? looks like URL squatting spam]
     Not bad, but incredibly inconsistent function names (eg length, vs size)
     Unhelpful error messages most of the time
 ---
 
-# P7: AWK + Prolog [https://www.gnu.org/software/gawk/] [https://www.swi-prolog.org/]
+## P7: AWK + Prolog [https://www.gnu.org/software/gawk/] [https://www.swi-prolog.org/]
     AWK was more painful than it should have been due to some recursion
     Prolog was hacked together, and then refined with a blog post I found. I take no credit, especially for part2
 ---
 
-# P8: Kotlin [https://kotlinlang.org/]
+## P8: Kotlin [https://kotlinlang.org/]
     Used Vim, so definitely suboptimal. Hoping this is the multi-day challenge so that I can reuse Kotlin some more
     Brute-forced part 2 - I still believe there is an elegant solution out there
 ---
 
-# P9: Go [https://golang.org/]
+## P9: Go [https://golang.org/]
     Honestly made me hate golang. I could see this being okay for a proper project, but probably the worst thing for iterative on-the-fly development
     Part 2 was different enough that I split the program, however it probably could probably be done easier with sorting
 ---
 
-# P10: Dart [https://dart.dev/]
+## P10: Dart [https://dart.dev/]
     Really enjoyed this - nothing special, just a nice contrast to Go. Motivated me to look at Flutter for future projects.
     Part 2 was a neat little DP problem - classical path addition
 ---
 
-# P11: Ruby [https://www.ruby-lang.org/]
+## P11: Ruby [https://www.ruby-lang.org/]
     Straightforward, but I actually miss some punctuation. Similar to Python, and I can see why it's so popular.
     Did Part2 the really slow brute-force way, however when I tried the smart way I was debugging for 20 minutes trying to find some subtle bug, so I probably came out even in the end..
 ---    
+
+## P12: Swift [https://swift.org/]
+    Some really weird edge cases and argument requirements Used Swift 5 and all the online documentation/forums are for 2/3, leading to a lot of headaches. Also managed to get a core dump (I suspect by multiplying two too large numbers together). The error was unhelpful, plus setting up vim syntax highlighting was way more difficult than it should have been.
+    Overall not totally happy - Dart was more fun
+---
+
