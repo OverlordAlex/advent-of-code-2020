@@ -66,3 +66,9 @@ Each program is self-contained. The language chosen, the presumed website, and s
     Overall not totally happy - Dart was more fun
 ---
 
+## P13: C [?? old enough that there isnt a website lol https://en.wikipedia.org/wiki/C_(programming_language)]
+    C is better to write than GoLang - gcc gives amazing warning/error messages these days. At least that's how I found it - after not touching it since university it was actually really nice to do it again.
+    Skipped part2 - the brute-force method is too slow, and I'm too lazy to work out the LCM or factorisation or whatever the actual solution entails
+---
+
+
