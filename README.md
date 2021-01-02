@@ -71,4 +71,10 @@ Each program is self-contained. The language chosen, the presumed website, and s
     Skipped part2 - the brute-force method is too slow, and I'm too lazy to work out the LCM or factorisation or whatever the actual solution entails
 ---
 
+## P14: PHP [https://www.php.net/]
+    The PHP documentation gives instructions on how to install PHP5; the current version is 8. I think that tells you all you need to know about PHP. After using it I can see why it once dominated the Web, but $man, do $those $variables $get $tiring.
+    Still have to come back to part2 - should probably build a prefix tree to solve it but laaazy
+---
+
+
 
