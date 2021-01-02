@@ -76,5 +76,8 @@ Each program is self-contained. The language chosen, the presumed website, and s
     Still have to come back to part2 - should probably build a prefix tree to solve it but laaazy
 ---
 
-
+## P15: Rust [https://www.rust-lang.org/]
+    Firstly, fuck Cargo - call it Rust - it's basically synonmous from what I've seen. Why cant I just have a rust file and compile/run that without all the extra bullshit on top? That being said, the Rust compiler is amazing and the language feels like a better C. Would definitely look at it again.
+    Part2 took a while to run - at first I thought maybe I'd missed some modulo magic, but in the end still completed in under a minute.
+---
 
